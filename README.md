@@ -49,8 +49,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
-# INTEGRANTES:
-
+INTEGRANTES:
 - Emilia Mercedes Durán Santander
 - Karen Stephanie Ramos Carpio
 - Renato Marcelo Puga Ramos
