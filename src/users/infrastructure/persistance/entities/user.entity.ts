@@ -5,9 +5,15 @@ export class UserEntity {
   @PrimaryGeneratedColumn()
   id: number;
   @Column()
-  userName: string;
-  @Column()
   email: string;
+  @Column()
+  firstName: string;
+  @Column()
+  lastNAme: string;
+  @Column()
+  age: number;
+  @Column()
+  gender: string;
   @Column()
   role: string;
   @Column()
