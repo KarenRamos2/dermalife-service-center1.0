@@ -9,6 +9,7 @@ import { DiagnosticsModule } from './diagnostics/diagnostics.module';
 import { AppointmentsModule } from './appointments/appointments.module';
 import { ProfileModule } from './profile/profile.module';
 import { SharedModule } from './shared/shared.module';
+import { TreatmentsModule } from './treatments/treatments.module';
 
 @Module({
   imports: [
@@ -20,6 +21,7 @@ import { SharedModule } from './shared/shared.module';
     AppointmentsModule,
     ProfileModule,
     SharedModule,
+    TreatmentsModule,
   ],
   controllers: [AppController],
   providers: [AppService],
